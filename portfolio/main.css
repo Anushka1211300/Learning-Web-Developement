@@ -1,0 +1,18 @@
+h2 {
+    background-color: #060931;
+    color: #e6d2d2;
+  }
+  p {
+    font-size: 32px;
+    /* width: 2em; */
+    color: rgb(24, 39, 39);
+  }
+  h1 {
+    font-size: 60px;
+  }
+  .title {
+    font-size: 65px;
+  }
+  h2 {
+      font-size: large;
+  }
